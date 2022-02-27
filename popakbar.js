@@ -7,8 +7,8 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_DIRECTLINK_ADS1",
-                            "#YOUR_DIRECTLINK_ADS2",
+                            "https://capricedes.com/usve1vtk6n?key=a3f8f564ce71f5d3d4f056681b04c52f",
+                            "https://capricedes.com/usve1vtk6n?key=a3f8f564ce71f5d3d4f056681b04c52f",
                         ]);
 
     var ars             = rChoice([
